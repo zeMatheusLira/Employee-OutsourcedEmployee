@@ -1,7 +1,7 @@
 package entities;
 
 public class Employee {
-    private String name;
+    protected String name;
     protected Integer hours;
     protected Double valuePerHour;
 
